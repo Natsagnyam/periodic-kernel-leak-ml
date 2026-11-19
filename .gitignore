@@ -1,0 +1,15 @@
+*.o
+*.ko
+*.mod
+*.mod.c
+*.order
+*.symvers
+*.cmd
+*.dwo
+*.a
+*.so
+.tmp_versions/
+modules.builtin*
+poller/abb_poller
+__pycache__/
+*.py[cod]
