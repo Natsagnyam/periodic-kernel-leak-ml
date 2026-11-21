@@ -1,0 +1,13 @@
+Source: periodic-kernel-leak-ml
+Section: kernel
+Priority: optional
+Maintainer: natska <nanyam22@gmail.com>
+Standards-Version: 4.6.2
+Build-Depends: debhelper-compat (= 13), dh-dkms
+
+Package: periodic-kernel-leak-ml-dkms
+Architecture: all
+Depends: ${misc:Depends}, dkms
+Description: DKMS kernel modules for periodic leak and fast-loop gauge monitoring
+ Provides DKMS source and automatic module builds for gauge_macro_mod and
+ abb_leak_mod.

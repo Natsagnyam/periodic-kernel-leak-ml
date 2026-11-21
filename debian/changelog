@@ -1,0 +1,5 @@
+periodic-kernel-leak-ml (0.1.0-1~noble1) noble; urgency=medium
+
+  * Initial DKMS packaging for gauge_macro_mod and abb_leak_mod.
+
+ -- natska <nanyam22@gmail.com>  Sat, 21 Nov 2026 19:45:00 +0800

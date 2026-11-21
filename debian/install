@@ -1,0 +1,3 @@
+viewer/smart_gauge_viewer.py usr/share/periodic-kernel-leak-ml/viewer
+viewer/abb_ml_viewer.py usr/share/periodic-kernel-leak-ml/viewer
+gauge/smart_gauge_app.py usr/share/periodic-kernel-leak-ml/gauge
