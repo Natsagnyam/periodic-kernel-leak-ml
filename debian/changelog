@@ -1,3 +1,10 @@
+periodic-kernel-leak-ml (0.1.0-3~noble1) noble; urgency=medium
+
+  * Install kernel sources into /usr/src/periodic-kernel-leak-ml-
+    0.1.0/kernel for DKMS
+
+ -- natska <natska@natska-XPS-15-9530>  Sat, 21 Nov 2026 21:53:45 +0800
+
 periodic-kernel-leak-ml (0.1.0-2~noble1) noble; urgency=medium
 
   * Include debian/copyright and refresh DKMS package
