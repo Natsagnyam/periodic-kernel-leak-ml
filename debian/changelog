@@ -1,3 +1,9 @@
+periodic-kernel-leak-ml (0.1.0-2~noble1) noble; urgency=medium
+
+  * Include debian/copyright and refresh DKMS package
+
+ -- natska <natska@natska-XPS-15-9530>  Sat, 21 Nov 2026 20:02:09 +0800
+
 periodic-kernel-leak-ml (0.1.0-1~noble1) noble; urgency=medium
 
   * Initial DKMS packaging for gauge_macro_mod and abb_leak_mod.
