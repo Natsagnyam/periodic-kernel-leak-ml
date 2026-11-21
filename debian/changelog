@@ -1,3 +1,9 @@
+periodic-kernel-leak-ml (0.1.0-4~noble1) noble; urgency=medium
+
+  * Rebuild source tarball with kernel sources for DKMS
+
+ -- natska <natska@natska-XPS-15-9530>  Sat, 21 Nov 2026 22:13:07 +0800
+
 periodic-kernel-leak-ml (0.1.0-3~noble1) noble; urgency=medium
 
   * Add kernel sources for DKMS
