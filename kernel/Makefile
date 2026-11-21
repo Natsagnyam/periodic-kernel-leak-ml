@@ -1,4 +1,5 @@
 obj-m += abb_leak_mod.o
+obj-m += gauge_macro_mod.o
 
 KDIR ?= /lib/modules/$(shell uname -r)/build
 MOD_SRC := /home/natska/abb-kernel-memory-viewver/kernel

@@ -1,1 +1,2 @@
 obj-m += abb_leak_mod.o
+obj-m += gauge_macro_mod.o
