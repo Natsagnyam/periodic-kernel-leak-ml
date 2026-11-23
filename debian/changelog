@@ -1,3 +1,15 @@
+periodic-kernel-leak-ml (0.1.0-5~noble1) noble; urgency=medium
+
+  * Fresh source package for kernel-leak-gauge PPA with DKMS sources
+
+ -- natska <natska@natska-XPS-15-9530>  Tue, 24 Nov 2026 00:56:36 +0800
+
+periodic-kernel-leak-ml (0.1.0-4~noble1) noble; urgency=medium
+
+  * Rebuild source tarball with kernel sources for DKMS
+
+ -- natska <natska@natska-XPS-15-9530>  Sat, 21 Nov 2026 22:18:31 +0800
+
 periodic-kernel-leak-ml (0.1.0-4~noble1) noble; urgency=medium
 
   * Rebuild source tarball with kernel sources for DKMS
